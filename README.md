@@ -1,4 +1,5 @@
 READ.md de exemplo
+lembrei do comando: git status.
 
 Os principais comandos utilizados foram:
 - git init para inicializar o repositório;
