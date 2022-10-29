@@ -2,7 +2,7 @@
 
 README de exemplo
 
-Alteração nas features do site de pagamentos
+Alteração nas features do site de pagamentos.
 
 Os principais comandos utilizados foram:
 - git init para inicializar o repositorio;
