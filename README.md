@@ -1,7 +1,7 @@
 # senai-versoes-controles
 
 README de exemplo
-Os principasi comandos utilizados foram:
+Os principais comandos utilizados foram:
 - git init para inicializar o repositorio;
 - git add para adicionar o arquivo de texto ao staging;
 - git commit -m "nome-do-arquivo" para salvar o arquivo ao repositorio local;
